@@ -1,3 +1,5 @@
 .metals
 .vscode
 *.log
+*.class
+*.tasty
